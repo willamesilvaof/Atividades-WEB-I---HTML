@@ -8,7 +8,7 @@ Atividades da disciplina de Desenvolvimento Web I (parte de HTML)
 - [Atividade 4](atividade4.html): 
 - [Atividade 5](atividade5.html): 
 - [Atividade 6](atividade6.html): 
-- Atividade 7: 
+- [Atividade 7](atividade7.html): 
 - Atividade 8: 
 - Atividade 9:
 - Atividade 10:
