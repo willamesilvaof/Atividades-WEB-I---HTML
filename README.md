@@ -9,7 +9,7 @@ Atividades da disciplina de Desenvolvimento Web I (parte de HTML)
 - [Atividade 5](atividade5.html):  Usando as tags ("ol, li)
 - [Atividade 6](atividade6.html):  Usando as tags ("ol, li")
 - [Atividade 7](atividade7.html):  Usando as tags ("ul, li")
-- Atividade 8: 
+- [Atividade 8](atividade8.html):  Usando as tags ("a", "nav", "aside")
 - Atividade 9:
 - Atividade 10:
 - Atividade 11: 
