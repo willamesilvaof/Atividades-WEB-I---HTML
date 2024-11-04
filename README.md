@@ -14,5 +14,5 @@ Atividades da disciplina de Desenvolvimento Web I (parte de HTML)
 - [Atividade 10](atividade10.html): Usando a tag ("img")
 - [Atividade 11](atividade11.html): Usando a tags ("figure", "figcaption")
 - [Atividade 12](atividade12.html): Usando as tags ("table", "thead", "tbody", "tfoot", "tr", "th", "td>")
-- [Atividade 13]:(atividade13.html): Usando as tags ("form", "label", "input", "textarea" "select" "option")
-- [Atividade 14]: 
+- Atividade 13: Usando as tags ("form", "label", "input", "textarea" "select" "option")
+- [Atividade 14](atividade14.html): Usando as tags ("br", "!-- --") 
