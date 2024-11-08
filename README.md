@@ -2,7 +2,7 @@
 Atividades da disciplina de Desenvolvimento Web I (parte de HTML)
 
 ### Atividades:
-- [Atividade 1](atividade01.html):  Usando as tags ("html, head, body, footer")
+- [Atividade 1](atividade01.html):  Usando as tags ('<html>', head, body, footer")
 - [Atividade 2](atividade02.html):  Usando as tags ("main, section, aside")
 - [Atividade 3](atividade03.html):  Usando as tags ("h1, ..., h6")
 - [Atividade 4](atividade04.html):  Usando as tags ("p, b, i")
